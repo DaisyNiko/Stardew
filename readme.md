@@ -3,20 +3,24 @@
 https://www.nexusmods.com/stardewvalley/mods/4119
 
 author: DaisyNiko
+
 version: 1.0.0
 
 --------------------
+
 ### Requirements ###
 
 * [SMAPI 2.11](https://www.nexusmods.com/stardewvalley/mods/2400)
 * [Content Patcher 1.8](https://www.nexusmods.com/stardewvalley/mods/1915)
 
 --------------------
+
 ### Recommended ###
 
 * [Winter Grass](https://www.nexusmods.com/stardewvalley/mods/1601)
 
 --------------------
+
 ### Installation ###
 
 1. Download the latest versions of the above required mods.
@@ -25,6 +29,7 @@ version: 1.0.0
 4. To uninstall, just delete the mod folder
 
 --------------------
+
 ### Recolour compatibility ###
 
 This mod uses Eemie's recolour by default, so if you use that, you can ignore this section. To use vanilla or the Starblue Valley recolour (and you will have to do this every time you update this mod):
@@ -35,6 +40,7 @@ This mod uses Eemie's recolour by default, so if you use that, you can ignore th
 4. Paste them into the /assets folder, letting them overwrite the ones in there already
 
 --------------------
+
 ### Other mod compatibility ###
 
 The /compat folder contains compatibility patches for mods that would otherwise conflict. To install:
@@ -50,6 +56,7 @@ The /compat folder contains compatibility patches for mods that would otherwise 
 * Immersive Farm 2 + Remastered
 
 --------------------
+
 ### Configuration ###
 
 After installing, run the game at least once with SMAPI to generate a config.json file in the mod folder. You can open it in Notepad to make changes.
